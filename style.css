@@ -14,11 +14,11 @@ p {
         
 color: yellowgreen;
     font-size: 20px;
-    background-size: 100% 100%;
+    background-size: 900px 200px;
 }
 body {
     background-image: url("https://tse3.mm.bing.net/th?id=OIP.hIdv7csA4UmgYEEBu-PTFAHaDE&pid=Api&P=0&h=220");
-    background-repeat: no-repeat; background-size: 1200px 1400px;
+    background-repeat: no-repeat; background-size: 100% 100%;
 }
 footer{
     background-color: aqua;
