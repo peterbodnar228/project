@@ -17,8 +17,7 @@ color: yellowgreen;
     background-size: 900px 200px;
 }
 body {
-    background-image: url("https://tse3.mm.bing.net/th?id=OIP.hIdv7csA4UmgYEEBu-PTFAHaDE&pid=Api&P=0&h=220");
-    background-repeat: no-repeat; background-size: 100% 100%;
+   background: color black
 }
 footer{
     background-color: aqua;
